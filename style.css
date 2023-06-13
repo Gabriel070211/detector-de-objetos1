@@ -1,0 +1,46 @@
+body{
+    background-image: url(background.jpg);
+    background-size: cover;
+    text-align: center;
+    
+}
+
+.heading{
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+    text-transform: capitalize;
+
+}
+
+#status,#numerodeobjetos{
+    color: white;
+    font-size: 20px;
+
+}
+
+
+.copyrite{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding:20px;
+    font-size: 18px;
+}
+
+#button{
+    margin: 20px;
+    font-size: 30px;
+    padding: 20px;
+
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 100px;
+    box-shadow: 5px 5px 5px black;
+}
